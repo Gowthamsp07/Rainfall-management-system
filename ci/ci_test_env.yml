@@ -1,4 +1,4 @@
-# pysteps development environment
+# pysteps development environment requirements
 name: test_environment
 channels:
   - conda-forge
@@ -7,7 +7,7 @@ dependencies:
   - python>=3.10
   - pip
   - mamba
-  # Minimal dependencies
+  # Minimal dependencies required
   - numpy
   - cython
   - jsmin
@@ -18,7 +18,7 @@ dependencies:
   - pillow
   - pyproj
   - scipy
-  # Optional dependencies
+  # Optional dependencies(for safe usage)
   - dask
   - pyfftw
   - cartopy
@@ -28,7 +28,7 @@ dependencies:
   - scikit-image
   - rasterio
   - gdal
-  # Test dependencies
+  # Test dependencies for the projct
   - pytest
   - pytest-cov
   - pip:
