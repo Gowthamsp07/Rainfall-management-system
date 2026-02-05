@@ -7,6 +7,7 @@ Data preprocessing: Knowledge of how to clean and preprocess the data, handle mi
 Exploratory Data Analysis: Familiarity with data visualization techniques using Python libraries like Matplotlib and Seaborn to gain valuable insights from the data
 Feature engineering: Understanding of feature selection and creation to improve the predictive ability of the model
 Use of Machine Learning algorithms: Knowledge of different machine learning algorithms and evaluate their performance 
+
 How to build this machine learning project:
 
 Setup the development environment with Python and its necessary libraries
@@ -15,6 +16,7 @@ Preprocess the data before feeding it to the machine-learning model
 Train the machine learning model with appropriate algorithms for predicting rainfall 
 Assess the model’s performance using appropriate evaluation metrics and finetune the hyperparameters to improve prediction accuracy
 Integrate the model into a larger system or create a web application
+
 Real world applications: 
 
 Farmers can use this tool to predict rainfall and plan their crop management activities 
