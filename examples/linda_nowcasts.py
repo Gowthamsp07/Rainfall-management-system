@@ -1,6 +1,6 @@
 #!/bin/env python
 """
-LINDA nowcasts
+LINDA nowcasts...
 ==============
 
 This example shows how to compute and plot a deterministic and ensemble LINDA
