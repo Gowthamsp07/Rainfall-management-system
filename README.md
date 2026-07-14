@@ -1,4 +1,4 @@
-This project aims to develop a model capable of predicting rainfall patterns in the future based on past meteorological data. Learners will get hands-on practice collecting and preprocessing meteorological data, using different machine learning algorithms, and training a model to make accurate rainfall predictions.
+This project aims to develop a model capable of predicting rainfall patterns in the future based on past meteorological data. Learners will get hands-on practice collecting and preprocessing meteorological data, using different machine learning algorithms, and training a model to make accurate rainfall predictions
 
 Learning outcomes: 
 
