@@ -20,5 +20,5 @@ Integrate the model into a larger system or create a web application
 Real world applications: 
 
 Farmers can use this tool to predict rainfall and plan their crop management activities 
-Local authorities in water management agencies can use it to forecast water availability and implement different water conservation strategies 
+Local authorities in water management agencies can use it to forecast water availability and implement different water conservation strategies,
 Disaster management authorities can use it to understand rainfall rates and provide early warnings to prepare people for a disaster.
